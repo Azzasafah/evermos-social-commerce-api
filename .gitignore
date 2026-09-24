@@ -39,3 +39,8 @@ __pycache__/
 # Uploaded files
 uploads/*
 !uploads/.gitkeep
+
+# Antigravity & Agentic Tooling
+.agents/
+skills-lock.json
+
